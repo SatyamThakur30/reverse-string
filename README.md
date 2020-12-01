@@ -6,7 +6,7 @@ Reverses the words of a sentence.
 
 ```sh
 
-npm install @npmusername/reverse-sentence
+npm install @satyamthakur30/reverse-sentence
 
 ```
 
