@@ -1,0 +1,23 @@
+{
+  "name": "@satyamthakur30/reverse-string",
+  "version": "0.1.0",
+  "description": "Reverse string easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "satyam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatyamThakur30/reverse-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SatyamThakur30/reverse-string/issues"
+  },
+  "homepage": "https://github.com/SatyamThakur30/reverse-string#readme",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  },
+  "dependencies": {}
+}
